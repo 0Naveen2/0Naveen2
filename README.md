@@ -1,6 +1,6 @@
-<!-- Banner / Header -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Naveen+Kumar;AI%2FML+Engineer+%7C+Problem+Solver;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Naveen+Kumar;Java+Developer+%7C+Problem+Solver;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
@@ -14,36 +14,32 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **B.Tech CSE (AI & ML)** @ Alliance University  
-- 💻 Passionate about **AI-powered automation, backend development, and scalable solutions**  
-- 🌱 Currently exploring **Generative AI, DevOps pipelines, and advanced NLP**  
+- 🎓 **B.Tech CSE** @ Alliance University  
+- 💻 Passionate about **Java development, backend systems, and scalable solutions**  
+- 🌱 Currently exploring **Spring Boot, Microservices, and DevOps pipelines**  
 - 🤝 Open to **collaborations, internships, and innovative projects**  
 
 ---
 
-##  LeetCode Progress
-![LeetCode Difficulty Breakdown](assets/leetcode_difficulty.png)
-
 ## 🛠 Tech Stack  
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Web Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Databases & Tools:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -63,12 +59,10 @@
 
 ---
 
-## 📜 Certifications  
+## 🧠 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NAFTfBr440?theme=dark&ext=heatmap)](https://leetcode.com/u/NAFTfBr440/)
 
-- **DevOps, DataOps, MLOps**  
-- **Advanced Deep Learning for Healthcare**  
-- **Generative AI with LLMs**  
-- **Compiler Design (NPTEL)**  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NAFTfBr440?theme=dark,light)](https://leetcode.com/u/NAFTfBr440/)
 
 ---
 
@@ -77,9 +71,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0Naveen2&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0Naveen2&theme=tokyonight" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Naveen2&theme=react-dark&hide_border=true" />
 </p>
 
 ---
