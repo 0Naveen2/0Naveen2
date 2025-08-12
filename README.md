@@ -21,6 +21,9 @@
 
 ---
 
+##  LeetCode Progress
+![LeetCode Difficulty Breakdown](assets/leetcode_difficulty.png)
+
 ## 🛠 Tech Stack  
 
 **Languages:**  
