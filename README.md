@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Naveen+Kumar;AI%2FML+Engineer+%7C+Problem+Solver;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Naveen+Kumar;AI%2FML+Engineer+%7C+Problem+Solver;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
