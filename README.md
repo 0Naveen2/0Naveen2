@@ -62,7 +62,6 @@
 ## 🧠 LeetCode Stats  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NAFTfBr440?theme=dark&ext=heatmap)](https://leetcode.com/u/NAFTfBr440/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/NAFTfBr440?theme=dark,light)](https://leetcode.com/u/NAFTfBr440/)
 
 ---
 
